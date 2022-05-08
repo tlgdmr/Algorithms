@@ -1,0 +1,26 @@
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).exe
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).deps.json
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).runtimeconfig.json
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).runtimeconfig.dev.json
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).dll
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).pdb
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).AssemblyInfo.cs
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).dll
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).pdb
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).genruntimeconfig.cache
+C:\Users\asus\Desktop\Coin Change\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).exe
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).deps.json
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).runtimeconfig.json
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).runtimeconfig.dev.json
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).dll
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\bin\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).pdb
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).AssemblyInfo.cs
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).dll
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).pdb
+C:\Users\asus\Desktop\Coin Change Algorithm\CoinChange(DP an GreedyApproach)\obj\Debug\netcoreapp3.1\CoinChange(DP an GreedyApproach).genruntimeconfig.cache
